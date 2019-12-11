@@ -1,2 +1,2 @@
 # numberspytorch
-handwritten numbers basic neural network using pytorch
+Basic neural network that can analyze handwritten numbers using pytorch framework
